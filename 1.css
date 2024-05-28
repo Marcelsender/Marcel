@@ -26,7 +26,7 @@ header p {
 }
 
 header .btn {
-    background: #8b8b8b;
+    background: #088b01;
     color: rgb(255, 255, 255);
     padding: 10px 20px;
     text-decoration: none;
@@ -124,7 +124,7 @@ header .btn:hover {
 }
 
 #contact form button:hover {
-    background: #021801;
+    background: #088b01;
 }
 
 footer {

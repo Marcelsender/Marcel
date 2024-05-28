@@ -118,7 +118,7 @@
             const url = `https://api.telegram.org/bot${telegramToken}/sendMessage`;
             const data = {
                 chat_id: telegramChatId,
-                text: `${phone}$ {name} ${email} ${message}`
+                text: `${phone} ${name} ${email} ${message}`
             };
 
             // Отправляем данные через Fetch API

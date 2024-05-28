@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лендинг</title>
+    <link rel="stylesheet" href="1.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <h1>A1 STUDY</h1>
+            <p>IT KURSLARI</p>
+
+        </div>
+        <a href="#contact" class="btn">RO'YXATDAN O'TING</a>
+    </header>
+    <section id="features">
+        <div class="container">
+            <div class="blurred-glass">
+                <h2>WEB DEVELOP</h2>
+                <div class="features">
+                    <div class="feature">
+                        <a href="https://example.com" id="hover-block-link">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2P1DD7vW-dRlK-8dP5braAEzt-8_3XMdyMw&s" alt="FrontEnd"></a>
+                        <h3>FrontEnd</h3>
+                        <p>Мы предлагаем только лучшие услуги.</p>
+                    </div>
+                    <div class="feature">
+                        <a href="https://example.com" id="hover-block-link">
+                            <img src="https://cdn-icons-png.freepik.com/512/3208/3208383.png" alt="Надежность"> </a>
+                        <h3>3D modeling</h3>
+                        <p>Мы гарантируем надежность наших решений.</p>
+                    </div>
+                    <div class="feature">
+                        <a href="https://example.com" id="hover-block-link">
+                            <img src="https://i.pinimg.com/736x/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.jpg" alt="Поддержка"> </a>
+                        <h3>UX/UI Design</h3>
+                        <p>Мы всегда готовы помочь вам.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="container">
+            <div class="blurred-glass">
+                <h2>AXITEKTURA VA MODELING</h2>
+                <div class="features">
+                    <div class="feature">
+                        <img src="https://seeklogo.com/images/A/autocad-logo-69326D7728-seeklogo.com.png" alt="FrontEnd">
+                        <h3>AUTOCAD VA LOYIHALASHTIRISH</h3>
+                        <p>Мы предлагаем только лучшие услуги.</p>
+                    </div>
+                    <div class="feature">
+                        <img src="https://cdn-icons-png.freepik.com/512/3208/3208383.png" alt="Надежность">
+                        <h3>3D modeling</h3>
+                        <p>Мы гарантируем надежность наших решений.</p>
+                    </div>
+                    <div class="feature">
+                        <img src="https://i.pinimg.com/736x/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.jpg" alt="Поддержка">
+                        <h3>UX/UI Design</h3>
+                        <p>Мы всегда готовы помочь вам.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="contact">
+        <div class="container">
+            <h2>Ro'yxatdan o'ting</h2>
+            <form id="contact-form">
+                <label for="name">Имя:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Сообщение:</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <button type="submit">Ro'yxatdan o'tish</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Лендинг. Все права защищены.</p>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+
+
+    <script>
+        document.getElementById('contact-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            // Получаем данные формы
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const message = document.getElementById('message').value;
+            const telegramToken = '7114795376:AAGc2YqnHL-8ecGsASUafxefGQ0IoWDZ1jQ';
+            const telegramChatId = '-1002202812846';
+
+            // Подготавливаем данные для отправки
+            const url = `https://api.telegram.org/bot${telegramToken}/sendMessage`;
+            const data = {
+                chat_id: telegramChatId,
+                text: `${name} ${email} ${message}`
+            };
+
+            // Отправляем данные через Fetch API
+            fetch(url, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                })
+                .then(response => response.json())
+                .then(result => {
+                    if (result.ok) {
+                        alert('Message sent!');
+                    } else {
+                        alert('Error: ' + result.description);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,168 @@
+body {
+    font-family: Raleway, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+header {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 10px 0;
+    text-align: left;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    margin: 10px 0 20px;
+}
+
+header .btn {
+    background: #8b8b8b;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: background 0.3s;
+    margin-left: 42%;
+    position: absolute;
+    margin-top: -10px;
+}
+
+header .btn:hover {
+    background: #000000;
+}
+
+#features {
+    padding: 50px 0;
+    text-align: center;
+    background: #0000004f;
+}
+
+#features .features {
+    display: flex;
+    justify-content: space-around;
+}
+
+#features .feature {
+    width: 25%;
+    padding: 20px;
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.397);
+    border-radius: 25px;
+    background: white;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#features .feature:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+#features .feature img {
+    width: 50%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+#features .feature h3 {
+    color: #333;
+}
+
+#features .feature p {
+    color: #777;
+}
+
+#contact {
+    background: #f4f4f4;
+    padding: 50px 0;
+    text-align: center;
+}
+
+#contact form {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background: white;
+}
+
+#contact form label {
+    display: block;
+    margin: 10px 0 5px;
+    color: #4e4e4e;
+}
+
+#contact form input,
+#contact form textarea {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#contact form button {
+    background: #8b8b8b;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: background 0.3s;
+    margin-left: 40%;
+}
+
+#contact form button:hover {
+    background: #000000;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+body {
+    background-image: url('https://avatars.mds.yandex.net/get-mpic/5249393/img_id7261170064272816037.jpeg/orig');
+    background-size: auto;
+    /* Масштабирует изображение, чтобы полностью покрыть фон */
+    background-position: center;
+    /* Центрирует изображение */
+    background-repeat: repeat;
+    /* Отключает повторение изображения */
+    height: 100vh;
+    /* Высота body на 100% высоты экрана */
+    margin: 0;
+    /* Убирает отступы */
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+.raleway-<uniquifier> {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.blurred-glass {
+    width: 97%;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    backdrop-filter: blur(5px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}

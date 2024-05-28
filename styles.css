@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background: #37676d;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    margin: 10px 0 20px;
+}
+
+header .btn {
+    background: white;
+    color: #4CAF50;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#features img {
+    width: 50%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+#features {
+    padding: 50px 0;
+    text-align: center;
+}
+
+#features .features {
+    display: flex;
+    justify-content: space-around;
+}
+
+#features .feature {
+    width: 30%;
+}
+
+#contact {
+    background: #f4f4f4;
+    padding: 50px 0;
+    text-align: center;
+}
+
+#contact form {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#contact form label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+#contact form input,
+#contact form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#contact form button {
+    background: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+/* Стили для секции с hover-блоком */
+
+#hover-block-section {
+    padding: 50px 0;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+#hover-block-link {
+    display: inline-block;
+    text-decoration: none;
+}
+
+#hover-block {
+    width: 50px;
+    height: 50px;
+    background-color: #4CAF50;
+    transition: transform 0.5s ease, background-color 0.5s ease;
+}
+
+#hover-block:hover {
+    transform: scale(1.2);
+    background-color: #45A049;
+}

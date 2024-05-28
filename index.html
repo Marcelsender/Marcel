@@ -77,15 +77,15 @@
             <h2>Ro'yxatdan o'ting</h2>
             <form id="contact-form">
                 <label for="phone">Phone Number:</label>
-            <input type="tel" id="phone" name="phone" placeholder="+998" required pattern="\+998\d{9}">
+            <input type="tel" id="phone" name="phone" placeholder="+998" required pattern="\998\d{9}">
                 
-                <label for="name">Telefon raqam:</label>
+                <label for="name">Isim familiyangiz:</label>
                 <input type="text" id="name" name="name" required>
 
                 <label for="email">Email:</label>
                 <input type="email" id="email" name="email" required>
 
-                <label for="message">Isim familiyangiz:</label>
+                <label for="message">Yo'nalshning nomini kiriting:</label>
                 <textarea id="message" name="message" required></textarea>
 
                 <button type="submit">Ro'yxatdan o'tish</button>
@@ -107,7 +107,7 @@
             event.preventDefault();
 
             // Получаем данные формы
-            const name = document.getElementById('phone').value;
+            const phone = document.getElementById('phone').value;
             const name = document.getElementById('name').value;
             const email = document.getElementById('email').value;
             const message = document.getElementById('message').value;
@@ -118,7 +118,7 @@
             const url = `https://api.telegram.org/bot${telegramToken}/sendMessage`;
             const data = {
                 chat_id: telegramChatId,
-                text: `${phone} ${name} ${email} ${message}`
+                text: `${name} ${email} ${message}`
             };
 
             // Отправляем данные через Fetch API

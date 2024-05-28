@@ -114,7 +114,7 @@ header .btn:hover {
 }
 
 #contact form button {
-    background: #8b8b8b;
+    background: #0da000;
     color: rgb(255, 255, 255);
     padding: 10px 20px;
     text-decoration: none;
@@ -124,7 +124,7 @@ header .btn:hover {
 }
 
 #contact form button:hover {
-    background: #000000;
+    background: #021801;
 }
 
 footer {

@@ -102,16 +102,22 @@
             <form id="contact-form">
                 <label for="phone">Telefon raqam:</label>
                 <input type="number" id="phone" name="phone" placeholder="+998" required pattern="\998\d{9}">
-
                 <label for="name">F.I.O:</label>
                 <input type="text" id="name" name="name" required>
-
                 <label for="email">Email:</label>
                 <input type="email" id="email" name="email" required>
-
-                <label for="message">Yo’nalish nomi:</label>
-                <textarea id="message" name="message" required></textarea>
-
+                <label for="message">Yo’nalish tanlang:</label>
+                <select id="message" name="message">
+                        <option value="FrontEnd">FrontEnd</option>
+                        <option value="BackEnd">BackEnd</option>
+                        <option value="UX/UI Design">UX/UI Design</option>
+                        <option value="autoCad">AUTOCAD VA LOYIHALASHTIRISH</option>
+                        <option value="3D Modeling">3D Modeling</option>
+                        <option value="vector">Vector Grafika</option>
+                        <option value="GraphicD">Grafik Dizayn</option>
+                        <option value="MobiFilming">Mobilografiya</option>
+                        <option value="VideoEdit">Video Montaj</option>
+                </select>
                 <button type="submit">Ro'yxatdan o'tish</button>
             </form>
         </div>
@@ -119,7 +125,7 @@
 
     <footer>
         <div class="container">
-            <p>&copy; 2024 Лендинг. Все права защищены.</p>
+            <p>&copy; A1 STUDY landing page all rights reserved.</p>
         </div>
     </footer>
 

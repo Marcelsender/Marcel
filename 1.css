@@ -10,7 +10,9 @@ body {
 }
 
 header {
-    background: rgb(0, 0, 0);
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613716602_63-p-stilnii-fon-dlya-prezentatsii-72.jpg);
+    background-size: 100%;
+    background-position: bottom;
     color: rgb(255, 255, 255);
     padding: 10px 0;
     text-align: left;
@@ -83,8 +85,16 @@ header .btn:hover {
 }
 
 #contact {
-    background: #dbdbdb;
-    padding: 50px 0;
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613716602_63-p-stilnii-fon-dlya-prezentatsii-72.jpg);
+    background-size: 100%;
+    background-position: absolute;
+    /* Центрирует изображение */
+    background-repeat: no-repeat;
+    /* Отключает повторение изображения */
+    height: 100%;
+    /* Высота body на 100% высоты экрана */
+    margin: 0;
+    padding: 0%;
     text-align: center;
 }
 

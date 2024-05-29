@@ -26,7 +26,7 @@ header p {
 }
 
 header .btn {
-    background: #088b01;
+    background: #008f07;
     color: rgb(255, 255, 255);
     padding: 10px 20px;
     text-decoration: none;
@@ -83,7 +83,7 @@ header .btn:hover {
 }
 
 #contact {
-    background: #f4f4f4;
+    background: #dbdbdb;
     padding: 50px 0;
     text-align: center;
 }
@@ -93,15 +93,15 @@ header .btn:hover {
     margin: 0 auto;
     text-align: left;
     padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
-    background: white;
+    background: rgb(255, 255, 255);
 }
 
 #contact form label {
     display: block;
     margin: 10px 0 5px;
-    color: #4e4e4e;
+    color: #000000;
 }
 
 #contact form input,
@@ -109,12 +109,12 @@ header .btn:hover {
     width: 95%;
     padding: 10px;
     margin-bottom: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #747474;
     border-radius: 5px;
 }
 
 #contact form button {
-    background: #0da000;
+    background: #059900;
     color: rgb(255, 255, 255);
     padding: 10px 20px;
     text-decoration: none;
@@ -124,12 +124,12 @@ header .btn:hover {
 }
 
 #contact form button:hover {
-    background: #088b01;
+    background: #000000;
 }
 
 footer {
     background: #333;
-    color: white;
+    color: rgb(146, 146, 146);
     text-align: center;
     padding: 10px 0;
 }
@@ -165,4 +165,23 @@ body {
     backdrop-filter: blur(5px);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+#message {
+    width: 100%;
+    /* Ширина */
+    height: 40px;
+    /* Высота */
+    font-size: 16px;
+    /* Размер шрифта */
+    color: #333;
+    /* Цвет текста */
+    background-color: #f9f9f9;
+    /* Цвет фона */
+    border: 1px solid #ccc;
+    /* Граница */
+    border-radius: 4px;
+    /* Скругление углов */
+    padding: 5px;
+    /* Внутренний отступ */
 }

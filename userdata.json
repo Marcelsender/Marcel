@@ -10,5 +10,11 @@
     "6694133035": {
         "id": 6694133035,
         "name": "In_proccesses"
+    },
+    "7733506991": {
+        "id": "7733506991",
+        "name": "all_in_processes",
+        "points": 0,
+        "subscribed": false
     }
 }

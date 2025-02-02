@@ -1,12 +1,10 @@
-{
-    "listings": [
-        {
-            "region": "YASHNOBOD",
-            "square": "86",
-            "totalArea": "100",
-            "contact": "+998901234567",
-            "description": "Просторная квартира",
-            "image": "https://i.imgur.com/example.jpg"
-        }
-    ]
-}
+[
+  {
+    "region": "OLMAZOR",
+    "square": "1",
+    "totalArea": "1",
+    "contact": "1",
+    "description": "1",
+    "image": "https://i.imgur.com/a6AXgNQ.png"
+  }
+]

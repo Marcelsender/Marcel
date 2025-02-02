@@ -1,1 +1,18 @@
-[{"region":"NURAFSHON","square":"65","totalArea":"65","contact":"+99833 9020741 (99 9090741)","description":"Suxrob ","image":"https://i.imgur.com/Kvl9eW9.jpeg"}]
+[
+  {
+    "region": "NURAFSHON",
+    "square": "65",
+    "totalArea": "65",
+    "contact": "+99833 9020741 (99 9090741)",
+    "description": "Suxrob ",
+    "image": "https://i.imgur.com/Kvl9eW9.jpeg"
+  },
+  {
+    "region": "YASHNOBOD",
+    "square": "65",
+    "totalArea": "65",
+    "contact": "+99833 9020741 (99 9090741)",
+    "description": "Suxrob ",
+    "image": "https://i.imgur.com/YVkXI2U.jpeg"
+  }
+]

@@ -1,20 +1,12 @@
 {
-    "5136875584": {
-        "id": 5136875584,
-        "name": "Rurouni_kenshin_07"
-    },
-    "939996219": {
-        "id": 939996219,
-        "name": "dev_jss"
-    },
-    "6694133035": {
-        "id": 6694133035,
-        "name": "In_proccesses"
-    },
-    "7733506991": {
-        "id": "7733506991",
-        "name": "all_in_processes",
-        "points": 100,
-        "subscribed": true
-    }
+    "listings": [
+        {
+            "region": "YASHNOBOD",
+            "square": "86",
+            "totalArea": "100",
+            "contact": "+998901234567",
+            "description": "Просторная квартира",
+            "image": "https://i.imgur.com/example.jpg"
+        }
+    ]
 }

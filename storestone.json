@@ -13,5 +13,10 @@
     "name": "Название ",
     "description": "Описание ",
     "image": "https://i.imgur.com/FMyuChe.jpeg"
+  },
+  {
+    "name": "Тест",
+    "description": "Тест",
+    "image": "https://i.imgur.com/CCbOYWr.jpeg"
   }
 ]

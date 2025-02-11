@@ -114,5 +114,16 @@
     "description": "Toshkent viloyati Nurafshon siti",
     "image": "https://i.imgur.com/WzGdIVu.jpeg",
     "location": null
+  },
+  {
+    "region": "SERGELI",
+    "pricePerSquare": "65",
+    "square": "65",
+    "totalArea": "3",
+    "contact": "99 9090741(33 9020741)",
+    "telegram": "@SuxroBB070",
+    "description": "Toshkent viloyati Nurafshon siti",
+    "image": "https://i.imgur.com/z0fXR1I.jpeg",
+    "location": null
   }
 ]

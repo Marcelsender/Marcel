@@ -6,9 +6,18 @@
     "phone": "1",
     "doctorId": "emp_ouakjw0jb",
     "doctorName": "nodir",
-    "services": [],
-    "totalAmount": 0,
-    "status": "waiting",
+    "services": [
+      {
+        "name": "tish oldirdi",
+        "price": 30000
+      },
+      {
+        "name": "tozaladi",
+        "price": 50000
+      }
+    ],
+    "totalAmount": 80000,
+    "status": "pending_payment",
     "registrationDate": "2025-04-06T15:34:52.391Z"
   }
 ]

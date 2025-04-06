@@ -4,7 +4,15 @@
     "name": "nodir",
     "phone": "+998951234578",
     "position": "doctor",
-    "username": "1",
-    "password": "1"
+    "username": "nodir1",
+    "password": "12345"
+  },
+  {
+    "id": "emp_admin",
+    "name": "Administrator",
+    "phone": "+998900000000",
+    "position": "admin",
+    "username": "admin",
+    "password": "admin123"
   }
 ]

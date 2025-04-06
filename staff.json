@@ -11,7 +11,7 @@
     "id": "emp_admin",
     "name": "Administrator",
     "phone": "+998900000000",
-    "position": "admin",
+    "position": "manager",
     "username": "admin",
     "password": "admin123"
   }

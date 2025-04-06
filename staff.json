@@ -8,14 +8,6 @@
     "password": "1"
   },
   {
-    "id": "emp_admin",
-    "name": "Administrator",
-    "phone": "+998900000000",
-    "position": "manager",
-    "username": "admin",
-    "password": "admin123"
-  },
-  {
     "id": "emp_wzq9n4ini",
     "name": "ASAD",
     "phone": "+998951233322",

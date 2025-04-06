@@ -19,5 +19,17 @@
     "totalAmount": 80000,
     "status": "pending_payment",
     "registrationDate": "2025-04-06T15:34:52.391Z"
+  },
+  {
+    "id": "pat_1znf4wj7c",
+    "firstName": "1",
+    "lastName": "1",
+    "phone": "1",
+    "doctorId": "emp_ouakjw0jb",
+    "doctorName": "nodira",
+    "services": [],
+    "totalAmount": 0,
+    "status": "waiting",
+    "registrationDate": "2025-04-06T18:25:36.369Z"
   }
 ]

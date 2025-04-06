@@ -14,5 +14,13 @@
     "position": "manager",
     "username": "admin",
     "password": "admin123"
+  },
+  {
+    "id": "emp_wzq9n4ini",
+    "name": "ASAD",
+    "phone": "+998951233322",
+    "position": "assistant",
+    "username": "2",
+    "password": "2"
   }
 ]

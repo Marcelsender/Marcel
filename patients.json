@@ -60,5 +60,17 @@
     "totalAmount": 0,
     "status": "waiting",
     "registrationDate": "2025-04-07T10:24:49.126Z"
+  },
+  {
+    "id": "pat_wijak2nwv",
+    "firstName": "furqat",
+    "lastName": "nodirov",
+    "phone": "+998333063666",
+    "doctorId": "emp_g1umbtn0w",
+    "doctorName": "sherzod",
+    "services": [],
+    "totalAmount": 0,
+    "status": "waiting",
+    "registrationDate": "2025-04-04T21:19:09.584Z"
   }
 ]

@@ -72,5 +72,17 @@
     "totalAmount": 0,
     "status": "waiting",
     "registrationDate": "2025-04-04T21:19:09.584Z"
+  },
+  {
+    "id": "pat_lee872uxe",
+    "firstName": "bek",
+    "lastName": "bekkov",
+    "phone": "+998990099009",
+    "doctorId": "emp_9zldsq1lf",
+    "doctorName": "bunyod",
+    "services": [],
+    "totalAmount": 0,
+    "status": "waiting",
+    "registrationDate": "2025-04-04T21:27:43.706Z"
   }
 ]

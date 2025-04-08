@@ -94,9 +94,14 @@
     "phone": "111",
     "doctorId": "emp_ouakjw0jb",
     "doctorName": "nodira",
-    "services": [],
-    "totalAmount": 0,
-    "status": "waiting",
+    "services": [
+      {
+        "name": "111",
+        "price": 10000
+      }
+    ],
+    "totalAmount": 10000,
+    "status": "pending_payment",
     "registrationDate": "2025-04-08T08:32:51.567Z"
   },
   {

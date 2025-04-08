@@ -56,9 +56,14 @@
     "phone": "+998333063666",
     "doctorId": "emp_g1umbtn0w",
     "doctorName": "sherzod",
-    "services": [],
-    "totalAmount": 0,
-    "status": "waiting",
+    "services": [
+      {
+        "name": "1",
+        "price": 85000
+      }
+    ],
+    "totalAmount": 85000,
+    "status": "pending_payment",
     "registrationDate": "2025-04-04T21:19:09.584Z"
   },
   {

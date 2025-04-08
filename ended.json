@@ -60,5 +60,23 @@
     "status": "completed",
     "registrationDate": "2025-04-08T08:29:19.345Z",
     "paymentDate": "2025-04-08T08:33:09.589Z"
+  },
+  {
+    "id": "pat_6bft78te3",
+    "firstName": "1",
+    "lastName": "1",
+    "phone": "1",
+    "doctorId": "emp_g1umbtn0w",
+    "doctorName": "sherzod",
+    "services": [
+      {
+        "name": "11",
+        "price": 100000
+      }
+    ],
+    "totalAmount": 100000,
+    "status": "completed",
+    "registrationDate": "2025-04-08T08:28:42.648Z",
+    "paymentDate": "2025-04-08T08:57:16.379Z"
   }
 ]

@@ -110,5 +110,17 @@
     "totalAmount": 0,
     "status": "waiting",
     "registrationDate": "2025-04-08T09:23:20.459Z"
+  },
+  {
+    "id": "pat_m5te55gb2",
+    "firstName": "Shaxzod",
+    "lastName": "Bozorov",
+    "phone": "+998941234455",
+    "doctorId": "emp_9zldsq1lf",
+    "doctorName": "bunyod",
+    "services": [],
+    "totalAmount": 0,
+    "status": "waiting",
+    "registrationDate": "2025-04-08T09:23:47.257Z"
   }
 ]

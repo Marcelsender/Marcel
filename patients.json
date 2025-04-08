@@ -105,23 +105,6 @@
     "registrationDate": "2025-04-08T08:28:42.648Z"
   },
   {
-    "id": "pat_vsdkbbhy0",
-    "firstName": "1",
-    "lastName": "1",
-    "phone": "1",
-    "doctorId": "emp_ouakjw0jb",
-    "doctorName": "nodira",
-    "services": [
-      {
-        "name": "1",
-        "price": 10000
-      }
-    ],
-    "totalAmount": 10000,
-    "status": "pending_payment",
-    "registrationDate": "2025-04-08T08:29:19.345Z"
-  },
-  {
     "id": "pat_ncmezaraf",
     "firstName": "11",
     "lastName": "111",

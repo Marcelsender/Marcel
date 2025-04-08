@@ -42,5 +42,23 @@
     "status": "completed",
     "registrationDate": "2025-04-08T08:30:28.515Z",
     "paymentDate": "2025-04-08T08:32:35.050Z"
+  },
+  {
+    "id": "pat_vsdkbbhy0",
+    "firstName": "1",
+    "lastName": "1",
+    "phone": "1",
+    "doctorId": "emp_ouakjw0jb",
+    "doctorName": "nodira",
+    "services": [
+      {
+        "name": "1",
+        "price": 10000
+      }
+    ],
+    "totalAmount": 10000,
+    "status": "completed",
+    "registrationDate": "2025-04-08T08:29:19.345Z",
+    "paymentDate": "2025-04-08T08:33:09.589Z"
   }
 ]

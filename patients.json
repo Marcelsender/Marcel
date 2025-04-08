@@ -77,5 +77,17 @@
     "totalAmount": 210000,
     "status": "pending_payment",
     "registrationDate": "2025-04-04T21:27:43.706Z"
+  },
+  {
+    "id": "pat_9c908qt80",
+    "firstName": "Aziz",
+    "lastName": "Abduqodirov",
+    "phone": "+998952214578",
+    "doctorId": "emp_g1umbtn0w",
+    "doctorName": "sherzod",
+    "services": [],
+    "totalAmount": 0,
+    "status": "waiting",
+    "registrationDate": "2025-04-08T04:45:53.729Z"
   }
 ]

@@ -110,22 +110,5 @@
     "totalAmount": 0,
     "status": "waiting",
     "registrationDate": "2025-04-08T09:23:47.257Z"
-  },
-  {
-    "id": "pat_sts3qgq26",
-    "firstName": "Shaxzod",
-    "lastName": "Bozorov",
-    "phone": "+998941234455",
-    "doctorId": "emp_ouakjw0jb",
-    "doctorName": "nodira",
-    "services": [
-      {
-        "name": "TEST",
-        "price": 85000
-      }
-    ],
-    "totalAmount": 85000,
-    "status": "pending_payment",
-    "registrationDate": "2025-04-08T09:46:39.909Z"
   }
 ]

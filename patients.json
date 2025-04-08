@@ -98,5 +98,17 @@
     "totalAmount": 0,
     "status": "waiting",
     "registrationDate": "2025-04-08T08:32:51.567Z"
+  },
+  {
+    "id": "pat_q99gwoegh",
+    "firstName": "1",
+    "lastName": "1",
+    "phone": "22",
+    "doctorId": "emp_g1umbtn0w",
+    "doctorName": "sherzod",
+    "services": [],
+    "totalAmount": 0,
+    "status": "waiting",
+    "registrationDate": "2025-04-08T09:23:20.459Z"
   }
 ]

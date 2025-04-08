@@ -88,23 +88,6 @@
     "registrationDate": "2025-04-08T04:45:53.729Z"
   },
   {
-    "id": "pat_6bft78te3",
-    "firstName": "1",
-    "lastName": "1",
-    "phone": "1",
-    "doctorId": "emp_g1umbtn0w",
-    "doctorName": "sherzod",
-    "services": [
-      {
-        "name": "11",
-        "price": 100000
-      }
-    ],
-    "totalAmount": 100000,
-    "status": "pending_payment",
-    "registrationDate": "2025-04-08T08:28:42.648Z"
-  },
-  {
     "id": "pat_ncmezaraf",
     "firstName": "11",
     "lastName": "111",

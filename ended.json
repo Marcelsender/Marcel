@@ -150,5 +150,27 @@
     "status": "completed",
     "registrationDate": "2025-04-04T21:19:09.584Z",
     "paymentDate": "2025-04-09T15:43:51.622Z"
+  },
+  {
+    "id": "pat_9c908qt80",
+    "firstName": "Aziz",
+    "lastName": "Abduqodirov",
+    "phone": "+998952214578",
+    "doctorId": "emp_g1umbtn0w",
+    "doctorName": "sherzod",
+    "services": [
+      {
+        "name": "Plomba",
+        "price": 120000
+      },
+      {
+        "name": "Tish oqartirish",
+        "price": 85000
+      }
+    ],
+    "totalAmount": 205000,
+    "status": "completed",
+    "registrationDate": "2025-04-08T04:45:53.729Z",
+    "paymentDate": "2025-04-09T15:44:01.249Z"
   }
 ]

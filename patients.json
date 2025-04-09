@@ -110,5 +110,17 @@
     "totalAmount": 0,
     "status": "waiting",
     "registrationDate": "2025-04-08T09:23:47.257Z"
+  },
+  {
+    "id": "pat_eqnbyk0nr",
+    "firstName": "bek",
+    "lastName": "bekkov",
+    "phone": "+998998778777",
+    "doctorId": "emp_hgu6835vz",
+    "doctorName": "bekkk",
+    "services": [],
+    "totalAmount": 0,
+    "status": "waiting",
+    "registrationDate": "2025-04-09T15:36:53.984Z"
   }
 ]

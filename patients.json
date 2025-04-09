@@ -118,9 +118,14 @@
     "phone": "+998998778777",
     "doctorId": "emp_hgu6835vz",
     "doctorName": "bekkk",
-    "services": [],
-    "totalAmount": 0,
-    "status": "waiting",
+    "services": [
+      {
+        "name": "tish olindi",
+        "price": 50000
+      }
+    ],
+    "totalAmount": 50000,
+    "status": "pending_payment",
     "registrationDate": "2025-04-09T15:36:53.984Z"
   }
 ]

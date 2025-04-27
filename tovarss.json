@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "1",
+    "name": "Органический мёд",
+    "description": "Натуральный мёд с горных пасек, 500г",
+    "image": "https://i.imgur.com/example1.jpg",
+    "category": "Здоровое питание",
+    "sellerId": "6694133035",
+    "sellerName": "example_seller",
+    "price": 85000,
+    "createdAt": "2023-05-15T10:00:00.000Z",
+    "updatedAt": "2023-05-15T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Набор витаминов",
+    "description": "Комплекс витаминов и минералов, 60 капсул",
+    "image": "https://i.imgur.com/example2.jpg",
+    "category": "БАДы",
+    "sellerId": "6694133035",
+    "sellerName": "example_seller",
+    "price": 120000,
+    "createdAt": "2023-05-16T11:30:00.000Z",
+    "updatedAt": "2023-05-16T11:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Массаж спины",
+    "description": "Профессиональный массаж спины, 60 минут",
+    "image": "https://i.imgur.com/example3.jpg",
+    "category": "Услуги для здоровья",
+    "sellerId": "1234567890",
+    "sellerName": "another_seller",
+    "price": 150000,
+    "createdAt": "2023-05-17T09:15:00.000Z",
+    "updatedAt": "2023-05-17T09:15:00.000Z"
+  }
+]

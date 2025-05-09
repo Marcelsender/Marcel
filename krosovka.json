@@ -1,16 +1,18 @@
 [
   {
     "id": "sneaker-1746819641541",
-    "name": "описание",
-    "description": "описание",
-    "price": 50000,
+    "name": "Кросовки",
+    "description": "Нормальные епта",
+    "price": 500000,
     "quantity": 22,
-    "brand": "puma",
+    "brand": "new-balance",
     "sizes": [
-      "10"
+      "9",
+      "10",
+      "12"
     ],
     "images": [
-      "https://i.imgur.com/WMRDpcL.jpeg"
+      "https://i.imgur.com/q5kirRb.png"
     ]
   }
 ]

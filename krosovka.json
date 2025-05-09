@@ -14,5 +14,25 @@
     "images": [
       "https://i.imgur.com/q5kirRb.png"
     ]
+  },
+  {
+    "id": "sneaker-1746822258706",
+    "name": "Говнодавы",
+    "description": "Для тех кто пинает ...",
+    "price": 120000,
+    "quantity": 60,
+    "brand": "new-balance",
+    "sizes": [
+      "9",
+      "10",
+      "11",
+      "12",
+      "9",
+      "10",
+      "12"
+    ],
+    "images": [
+      "https://i.imgur.com/KuSLEcK.jpeg"
+    ]
   }
 ]

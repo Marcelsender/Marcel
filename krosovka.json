@@ -34,5 +34,21 @@
     "images": [
       "https://i.imgur.com/KuSLEcK.jpeg"
     ]
+  },
+  {
+    "id": "sneaker-1746822432379",
+    "name": "Asics UPCOURT 4",
+    "description": "Мужские теннисные кроссовки",
+    "price": 265000,
+    "quantity": 10,
+    "brand": "adidas",
+    "sizes": [
+      "10",
+      "11",
+      "12"
+    ],
+    "images": [
+      "https://i.imgur.com/MgVxzki.jpeg"
+    ]
   }
 ]

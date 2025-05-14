@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "companyName": "Tang Saroy TJM",
+    "region": "Ташкентская область",
+    "city": "Nurafshan",
+    "logo": "https://i.imgur.com/ERH86w1.png",
+    "apartments": [
+      {
+        "id": 1747245335363,
+        "rooms": 2,
+        "area": 51,
+        "pricePerSquare": 5000000,
+        "initialPayment": 75000000
+      }
+    ],
+    "hasInstallment": true,
+    "installmentMonths": 24,
+    "hasMortgage": true,
+    "hasSubsidy": false,
+    "isFinished": true,
+    "isShell": false,
+    "contactPhone": "+998505806615",
+    "telegramLink": "https://t.me/TangSulolasi_uz",
+    "createdAt": "2025-05-14T17:58:18.081Z"
+  }
+]

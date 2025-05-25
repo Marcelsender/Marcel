@@ -1,1 +1,19 @@
-[{"username":"Smart-net Alisher","password":"1","phone":"+998505806645","products":[],"location":{"lat":41.30211973991374,"lng":69.26605224609376}},{"username":"SMART NET Seller","password":"1","phone":"+998505806615","products":[]}]
+[
+  {
+    "username": "Smart-net Alisher",
+    "password": "1",
+    "phone": "+998505806645",
+    "products": [],
+    "location": {
+      "lat": 41.30211973991374,
+      "lng": 69.26605224609376
+    },
+    "telegram": "https://t.me/all_in_processess"
+  },
+  {
+    "username": "SMART NET Seller",
+    "password": "1",
+    "phone": "+998505806615",
+    "products": []
+  }
+]

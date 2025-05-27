@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "BURGER",
+    "description": "Kotta burger",
+    "price": 40000,
+    "quantity": 2000,
+    "category": "bads",
+    "images": [
+      "https://i.ibb.co/gbmMdfgk/gamburger-3-11zon.jpg"
+    ],
+    "seller": "wfood"
+  }
+]

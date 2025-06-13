@@ -1,1 +1,20 @@
-[{"username":"wfood","password":"1234","phone":"1234","products":[],"telegram":"https://t.me/wfood_channel","location":{"lat":41.03034751899784,"lng":69.35867428779603}},{"username":"Dunyo","password":"1234","phone":"+998999109998","products":[]}]
+[
+  {
+    "username": "wfood",
+    "password": "1234",
+    "phone": "+998995390404",
+    "products": [],
+    "telegram": "https://t.me/wfood_channel",
+    "location": {
+      "lat": 41.03034751899784,
+      "lng": 69.35867428779603
+    },
+    "card": "5614681200407876"
+  },
+  {
+    "username": "Dunyo",
+    "password": "1234",
+    "phone": "+998999109998",
+    "products": []
+  }
+]

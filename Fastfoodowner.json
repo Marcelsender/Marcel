@@ -19,6 +19,10 @@
         {
           "distance": 5,
           "fee": 10000
+        },
+        {
+          "distance": 10,
+          "fee": 15000
         }
       ],
       "radiusLimit": 25

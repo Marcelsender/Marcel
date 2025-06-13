@@ -11,7 +11,12 @@
     },
     "card": "5614681200407876",
     "delivery": {
-      "zones": [],
+      "zones": [
+        {
+          "distance": 2,
+          "fee": 5000
+        }
+      ],
       "radiusLimit": 25
     }
   },

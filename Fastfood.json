@@ -10,5 +10,17 @@
     ],
     "seller": "wfood",
     "active": true
+  },
+  {
+    "name": "Lavash Big",
+    "description": "Kotta lavash to'yimli va mazaili \n",
+    "price": 40000,
+    "quantity": 100,
+    "category": "bads",
+    "images": [
+      "https://i.ibb.co/LyzhKBY/big-lavash.jpg"
+    ],
+    "seller": "wfood",
+    "active": true
   }
 ]

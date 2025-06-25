@@ -25,7 +25,7 @@
           "fee": 15000
         }
       ],
-      "radiusLimit": 70
+      "radiusLimit": 15
     }
   }
 ]

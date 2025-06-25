@@ -1,3 +1,1 @@
-{
-    "orders": []
-}
+{"orders":[{"id":"1750871877230","customer":{"name":"Тест","phone":"1","address":"1","location":{"lat":41.304064,"lng":69.3108736}},"items":[{"id":"BURGER","name":"BURGER","price":36000,"quantity":2,"seller":"wfood"}],"total":72000,"deliveryFee":0,"paymentType":"cash","timestamp":"2025-06-25T17:17:57.230Z"}]}

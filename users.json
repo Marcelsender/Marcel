@@ -24,5 +24,15 @@
     "username": "all_in_processess",
     "authDate": "2025-04-27T14:41:02.000Z",
     "lastLogin": "2025-04-27T14:41:55.190Z"
+  },
+  {
+    "name": "1",
+    "phone": "+998 50 580 66 45",
+    "telegramUsername": "all_in_processes",
+    "id": "1752476525546",
+    "registeredAt": "2025-07-14T07:02:05.546Z",
+    "isVerified": true,
+    "totalOrdersSum": 0,
+    "ordersCount": 0
   }
 ]

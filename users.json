@@ -44,5 +44,16 @@
     "isVerified": true,
     "totalOrdersSum": 0,
     "ordersCount": 0
+  },
+  {
+    "id": "1752478343260",
+    "name": "1",
+    "phone": "+998505806615",
+    "telegramUsername": "all_in_processes",
+    "registeredAt": "2025-07-14T07:32:23.260Z",
+    "isVerified": true,
+    "totalOrdersSum": 0,
+    "ordersCount": 0,
+    "orders": []
   }
 ]

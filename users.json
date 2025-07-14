@@ -25,7 +25,7 @@
         "deliveryAddress": "Ташкент, Юнусабад 5-кв"
       },
       {
-        "id": "order_002", 
+        "id": "order_002",
         "date": "2024-01-05T09:15:00.000Z",
         "items": [
           {
@@ -40,7 +40,11 @@
         "deliveryAddress": "Ташкент, Мирзо-Улугбек"
       }
     ],
-    "favoriteProducts": ["prod_001", "prod_005", "prod_012"],
+    "favoriteProducts": [
+      "prod_001",
+      "prod_005",
+      "prod_012"
+    ],
     "deliveryAddresses": [
       {
         "id": "addr_001",
@@ -49,7 +53,7 @@
         "isDefault": true
       },
       {
-        "id": "addr_002", 
+        "id": "addr_002",
         "title": "Работа",
         "address": "Ташкент, Мирзо-Улугбек, ул. Буюк Ипак Йули 15",
         "isDefault": false
@@ -80,7 +84,7 @@
   },
   {
     "id": "1703123456790",
-    "name": "Фарида Каримова", 
+    "name": "Фарида Каримова",
     "phone": "+998907654321",
     "telegramUsername": "farida_karimova",
     "registeredAt": "2024-01-12T16:45:00.000Z",
@@ -90,7 +94,7 @@
     "orders": [
       {
         "id": "order_003",
-        "date": "2024-01-08T11:30:00.000Z", 
+        "date": "2024-01-08T11:30:00.000Z",
         "items": [
           {
             "productId": "prod_003",
@@ -104,7 +108,10 @@
         "deliveryAddress": "Самарканд, Регистан"
       }
     ],
-    "favoriteProducts": ["prod_003", "prod_007"],
+    "favoriteProducts": [
+      "prod_003",
+      "prod_007"
+    ],
     "deliveryAddresses": [
       {
         "id": "addr_003",
@@ -116,7 +123,7 @@
     "paymentMethods": [
       {
         "id": "card_002",
-        "type": "card", 
+        "type": "card",
         "cardNumber": "**** **** **** 5678",
         "cardHolder": "FARIDA KARIMOVA",
         "isDefault": true
@@ -139,7 +146,7 @@
   {
     "id": "1703123456791",
     "name": "Дмитрий Сидоров",
-    "phone": "+998901111111", 
+    "phone": "+998901111111",
     "telegramUsername": "dmitry_sidorov",
     "registeredAt": "2024-01-01T12:00:00.000Z",
     "isVerified": false,
@@ -151,7 +158,7 @@
     "paymentMethods": [],
     "preferences": {
       "language": "ru",
-      "currency": "UZS", 
+      "currency": "UZS",
       "notifications": {
         "orderUpdates": true,
         "promotions": true,
@@ -162,5 +169,16 @@
     "discountLevel": "none",
     "lastLoginAt": "2024-01-01T12:00:00.000Z",
     "avatar": null
+  },
+  {
+    "id": "1752480324768",
+    "name": "Marcel",
+    "phone": "+998900146790",
+    "telegramUsername": "In_proccesses",
+    "registeredAt": "2025-07-14T08:05:24.768Z",
+    "isVerified": true,
+    "totalOrdersSum": 0,
+    "ordersCount": 0,
+    "orders": []
   }
 ]

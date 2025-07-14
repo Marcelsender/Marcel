@@ -1,59 +1,166 @@
 [
   {
-    "role": "buyer",
-    "telegramId": "7733506991",
-    "firstName": "In_processes",
-    "username": "all_in_processes",
-    "photoUrl": "https://t.me/i/userpic/320/liie7yQa5W-hxQGAIj-z7YQa0a8zOAQAzO3wGeDOfktrzCFLOHrALhAA9i9wFOng.jpg",
-    "authDate": "2025-04-27T14:47:45.000Z",
-    "lastLogin": "2025-04-27T14:47:45.877Z"
-  },
-  {
-    "role": "seller",
-    "telegramId": "6694133035",
-    "firstName": "马赛",
-    "username": "In_proccesses",
-    "photoUrl": "https://t.me/i/userpic/320/QA5uM5Kx2uofT7Y_rrGxAARuJ64FSrkyjXH__y2l_ICoGpVmquwdMGjNDM9DGisq.jpg",
-    "authDate": "2025-04-27T10:45:45.000Z",
-    "lastLogin": "2025-04-27T10:45:46.496Z"
-  },
-  {
-    "role": "seller",
-    "telegramId": "7289257277",
-    "firstName": "一",
-    "username": "all_in_processess",
-    "authDate": "2025-04-27T14:41:02.000Z",
-    "lastLogin": "2025-04-27T14:41:55.190Z"
-  },
-  {
-    "name": "1",
-    "phone": "+998 50 580 66 45",
-    "telegramUsername": "all_in_processes",
-    "id": "1752476525546",
-    "registeredAt": "2025-07-14T07:02:05.546Z",
+    "id": "1703123456789",
+    "name": "Алексей Петров",
+    "phone": "+998901234567",
+    "telegramUsername": "alexey_petrov",
+    "registeredAt": "2024-01-15T10:30:00.000Z",
     "isVerified": true,
-    "totalOrdersSum": 0,
-    "ordersCount": 0
+    "totalOrdersSum": 2500000,
+    "ordersCount": 15,
+    "orders": [
+      {
+        "id": "order_001",
+        "date": "2024-01-10T14:20:00.000Z",
+        "items": [
+          {
+            "productId": "prod_001",
+            "name": "iPhone 15 Pro",
+            "price": 15000000,
+            "quantity": 1
+          }
+        ],
+        "totalAmount": 15000000,
+        "status": "delivered",
+        "deliveryAddress": "Ташкент, Юнусабад 5-кв"
+      },
+      {
+        "id": "order_002", 
+        "date": "2024-01-05T09:15:00.000Z",
+        "items": [
+          {
+            "productId": "prod_002",
+            "name": "Samsung Galaxy S24",
+            "price": 12000000,
+            "quantity": 1
+          }
+        ],
+        "totalAmount": 12000000,
+        "status": "completed",
+        "deliveryAddress": "Ташкент, Мирзо-Улугбек"
+      }
+    ],
+    "favoriteProducts": ["prod_001", "prod_005", "prod_012"],
+    "deliveryAddresses": [
+      {
+        "id": "addr_001",
+        "title": "Дом",
+        "address": "Ташкент, Юнусабад 5-кв, дом 25, кв 45",
+        "isDefault": true
+      },
+      {
+        "id": "addr_002", 
+        "title": "Работа",
+        "address": "Ташкент, Мирзо-Улугбек, ул. Буюк Ипак Йули 15",
+        "isDefault": false
+      }
+    ],
+    "paymentMethods": [
+      {
+        "id": "card_001",
+        "type": "card",
+        "cardNumber": "**** **** **** 1234",
+        "cardHolder": "ALEXEY PETROV",
+        "isDefault": true
+      }
+    ],
+    "preferences": {
+      "language": "ru",
+      "currency": "UZS",
+      "notifications": {
+        "orderUpdates": true,
+        "promotions": true,
+        "newProducts": false
+      }
+    },
+    "loyaltyPoints": 2500,
+    "discountLevel": "silver",
+    "lastLoginAt": "2024-01-15T08:45:00.000Z",
+    "avatar": "https://example.com/avatars/user1.jpg"
   },
   {
-    "name": "1",
-    "phone": "+998 50 580 66 45",
-    "telegramUsername": "all_in_processes",
-    "id": "1752476588116",
-    "registeredAt": "2025-07-14T07:03:08.116Z",
+    "id": "1703123456790",
+    "name": "Фарида Каримова", 
+    "phone": "+998907654321",
+    "telegramUsername": "farida_karimova",
+    "registeredAt": "2024-01-12T16:45:00.000Z",
     "isVerified": true,
-    "totalOrdersSum": 0,
-    "ordersCount": 0
+    "totalOrdersSum": 850000,
+    "ordersCount": 5,
+    "orders": [
+      {
+        "id": "order_003",
+        "date": "2024-01-08T11:30:00.000Z", 
+        "items": [
+          {
+            "productId": "prod_003",
+            "name": "Платье летнее",
+            "price": 350000,
+            "quantity": 2
+          }
+        ],
+        "totalAmount": 700000,
+        "status": "delivered",
+        "deliveryAddress": "Самарканд, Регистан"
+      }
+    ],
+    "favoriteProducts": ["prod_003", "prod_007"],
+    "deliveryAddresses": [
+      {
+        "id": "addr_003",
+        "title": "Дом",
+        "address": "Самарканд, Регистан, дом 12",
+        "isDefault": true
+      }
+    ],
+    "paymentMethods": [
+      {
+        "id": "card_002",
+        "type": "card", 
+        "cardNumber": "**** **** **** 5678",
+        "cardHolder": "FARIDA KARIMOVA",
+        "isDefault": true
+      }
+    ],
+    "preferences": {
+      "language": "uz",
+      "currency": "UZS",
+      "notifications": {
+        "orderUpdates": true,
+        "promotions": false,
+        "newProducts": true
+      }
+    },
+    "loyaltyPoints": 850,
+    "discountLevel": "bronze",
+    "lastLoginAt": "2024-01-12T14:20:00.000Z",
+    "avatar": null
   },
   {
-    "id": "1752478343260",
-    "name": "1",
-    "phone": "+998505806615",
-    "telegramUsername": "all_in_processes",
-    "registeredAt": "2025-07-14T07:32:23.260Z",
-    "isVerified": true,
+    "id": "1703123456791",
+    "name": "Дмитрий Сидоров",
+    "phone": "+998901111111", 
+    "telegramUsername": "dmitry_sidorov",
+    "registeredAt": "2024-01-01T12:00:00.000Z",
+    "isVerified": false,
     "totalOrdersSum": 0,
     "ordersCount": 0,
-    "orders": []
+    "orders": [],
+    "favoriteProducts": [],
+    "deliveryAddresses": [],
+    "paymentMethods": [],
+    "preferences": {
+      "language": "ru",
+      "currency": "UZS", 
+      "notifications": {
+        "orderUpdates": true,
+        "promotions": true,
+        "newProducts": true
+      }
+    },
+    "loyaltyPoints": 0,
+    "discountLevel": "none",
+    "lastLoginAt": "2024-01-01T12:00:00.000Z",
+    "avatar": null
   }
 ]

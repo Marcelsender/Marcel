@@ -1,0 +1,180 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-07-16T07:32:26.014Z",
+  "theme": {
+    "primaryColor": "#007AFF",
+    "secondaryColor": "#34C759",
+    "backgroundColor": "#F2F2F7",
+    "surfaceColor": "#FFFFFF",
+    "textColor": "#000000",
+    "textSecondaryColor": "#8E8E93",
+    "borderColor": "#C6C6C8",
+    "shadowColor": "rgba(0, 0, 0, 0.1)",
+    "borderRadius": 12,
+    "spacing": {
+      "xs": 4,
+      "sm": 8,
+      "md": 16,
+      "lg": 24,
+      "xl": 32
+    }
+  },
+  "pages": {
+    "home": {
+      "enabled": true,
+      "components": [
+        {
+          "type": "hero",
+          "enabled": true,
+          "order": 1,
+          "config": {
+            "title": "SMART NET Marketplace",
+            "subtitle": "Лучшие товары по выгодным ценам",
+            "buttonText": "Смотреть каталог",
+            "backgroundImage": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg",
+            "height": 400
+          }
+        },
+        {
+          "type": "advertisement",
+          "enabled": true,
+          "order": 2,
+          "config": {
+            "slot": "home_top",
+            "maxHeight": 120
+          }
+        },
+        {
+          "type": "categories",
+          "enabled": true,
+          "order": 3,
+          "config": {
+            "title": "Категории",
+            "layout": "grid",
+            "columns": {
+              "mobile": 3,
+              "desktop": 6
+            },
+            "showIcons": true,
+            "cardStyle": "elevated"
+          }
+        },
+        {
+          "type": "advertisement",
+          "enabled": true,
+          "order": 4,
+          "config": {
+            "slot": "home_middle",
+            "maxHeight": 80
+          }
+        },
+        {
+          "type": "products",
+          "enabled": true,
+          "order": 5,
+          "config": {
+            "title": "Рекомендуемые товары",
+            "layout": "grid",
+            "columns": {
+              "mobile": 2,
+              "desktop": 4
+            },
+            "showRating": true,
+            "showSeller": true,
+            "showDiscount": true,
+            "limit": 20,
+            "cardStyle": "modern"
+          }
+        }
+      ]
+    },
+    "catalog": {
+      "enabled": true,
+      "components": [
+        {
+          "type": "search",
+          "enabled": true,
+          "order": 1,
+          "config": {
+            "placeholder": "Поиск товаров...",
+            "showFilters": true,
+            "showSort": true
+          }
+        },
+        {
+          "type": "advertisement",
+          "enabled": true,
+          "order": 2,
+          "config": {
+            "slot": "catalog_top",
+            "maxHeight": 100
+          }
+        },
+        {
+          "type": "products",
+          "enabled": true,
+          "order": 3,
+          "config": {
+            "layout": "grid",
+            "columns": {
+              "mobile": 2,
+              "desktop": 4
+            },
+            "showRating": true,
+            "showSeller": true,
+            "showDiscount": true,
+            "cardStyle": "modern"
+          }
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "desktop": {
+      "enabled": true,
+      "logo": {
+        "text": "SMART NET",
+        "subtext": "Marketplace"
+      },
+      "showCategories": true,
+      "showSearch": true,
+      "showUserMenu": true,
+      "showLanguageSwitch": true
+    },
+    "mobile": {
+      "enabled": true,
+      "tabs": [
+        {
+          "id": "home",
+          "title": "Главная",
+          "icon": "home",
+          "enabled": true
+        },
+        {
+          "id": "catalog",
+          "title": "Каталог",
+          "icon": "search",
+          "enabled": true
+        },
+        {
+          "id": "wishlist",
+          "title": "Избранное",
+          "icon": "heart",
+          "enabled": true
+        },
+        {
+          "id": "cart",
+          "title": "Корзина",
+          "icon": "shopping-bag",
+          "enabled": true
+        },
+        {
+          "id": "profile",
+          "title": "Профиль",
+          "icon": "user",
+          "enabled": true
+        }
+      ]
+    }
+  }
+}

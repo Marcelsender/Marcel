@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-07-16T07:32:27.164Z",
+  "advertisements": [],
+  "slots": [
+    {
+      "id": "home_top",
+      "name": "Главная - Верх",
+      "description": "Баннер в верхней части главной страницы",
+      "maxWidth": 1200,
+      "maxHeight": 120,
+      "allowedFormats": [
+        "banner",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "id": "home_middle",
+      "name": "Главная - Середина",
+      "description": "Баннер между категориями и товарами",
+      "maxWidth": 1200,
+      "maxHeight": 80,
+      "allowedFormats": [
+        "banner",
+        "image"
+      ]
+    },
+    {
+      "id": "home_bottom",
+      "name": "Главная - Низ",
+      "description": "Баннер в нижней части главной страницы",
+      "maxWidth": 1200,
+      "maxHeight": 100,
+      "allowedFormats": [
+        "banner",
+        "image"
+      ]
+    },
+    {
+      "id": "catalog_top",
+      "name": "Каталог - Верх",
+      "description": "Баннер в верхней части каталога",
+      "maxWidth": 1200,
+      "maxHeight": 100,
+      "allowedFormats": [
+        "banner",
+        "image"
+      ]
+    },
+    {
+      "id": "wishlist_top",
+      "name": "Избранное - Верх",
+      "description": "Баннер в верхней части избранного",
+      "maxWidth": 1200,
+      "maxHeight": 80,
+      "allowedFormats": [
+        "banner",
+        "image"
+      ]
+    },
+    {
+      "id": "profile_top",
+      "name": "Профиль - Верх",
+      "description": "Баннер в верхней части профиля",
+      "maxWidth": 1200,
+      "maxHeight": 100,
+      "allowedFormats": [
+        "banner",
+        "image"
+      ]
+    },
+    {
+      "id": "seller_stats_middle",
+      "name": "Продавец - Статистика",
+      "description": "Баннер в статистике продавца",
+      "maxWidth": 1200,
+      "maxHeight": 100,
+      "allowedFormats": [
+        "banner",
+        "image"
+      ]
+    },
+    {
+      "id": "seller_warehouse_top",
+      "name": "Продавец - Склад",
+      "description": "Баннер в складе продавца",
+      "maxWidth": 1200,
+      "maxHeight": 80,
+      "allowedFormats": [
+        "banner",
+        "image"
+      ]
+    }
+  ]
+}

@@ -79,5 +79,23 @@
         "notes": "Лид создан"
       }
     ]
+  },
+  {
+    "id": "1752754812316",
+    "name": "baxodir",
+    "phone": "998 33 925 71 07",
+    "source": "telegram",
+    "notes": "toshkent viloyatidan uy kerak ekan",
+    "status": "new",
+    "managerId": "3",
+    "createdAt": "2025-07-17T12:20:12.316Z",
+    "updatedAt": "2025-07-17T12:20:12.316Z",
+    "statusHistory": [
+      {
+        "status": "new",
+        "date": "2025-07-17T12:20:12.316Z",
+        "notes": "Лид создан"
+      }
+    ]
   }
 ]

@@ -103,11 +103,11 @@
     "name": "BAXODIR",
     "phone": "+998505805545",
     "source": "telegram",
-    "notes": "BERDIM ",
-    "status": "consultation_received",
+    "notes": "1 XAFTADA KELADI TO'LOV QILISHGA",
+    "status": "deposit_given",
     "managerId": "3",
     "createdAt": "2025-07-17T12:49:38.265Z",
-    "updatedAt": "2025-07-17T12:51:14.523Z",
+    "updatedAt": "2025-07-17T12:51:46.141Z",
     "statusHistory": [
       {
         "status": "new",
@@ -123,8 +123,17 @@
         "status": "consultation_received",
         "date": "2025-07-17T12:51:14.523Z",
         "notes": "BERDIM "
+      },
+      {
+        "status": "deposit_given",
+        "date": "2025-07-17T12:51:46.141Z",
+        "notes": "1 XAFTADA KELADI TO'LOV QILISHGA",
+        "contractNumber": "50024",
+        "initialPayment": 200
       }
     ],
-    "nextMeetingDate": "2025-07-20T14:50"
+    "nextMeetingDate": "2025-07-20T14:50",
+    "contractNumber": "50024",
+    "initialPayment": 200
   }
 ]

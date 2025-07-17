@@ -97,5 +97,23 @@
         "notes": "Лид создан"
       }
     ]
+  },
+  {
+    "id": "1752756578265",
+    "name": "BAXODIR",
+    "phone": "+998505805545",
+    "source": "telegram",
+    "notes": "tOSHKENT VILOYATIDA UY KERAK EKAN",
+    "status": "new",
+    "managerId": "3",
+    "createdAt": "2025-07-17T12:49:38.265Z",
+    "updatedAt": "2025-07-17T12:49:38.265Z",
+    "statusHistory": [
+      {
+        "status": "new",
+        "date": "2025-07-17T12:49:38.265Z",
+        "notes": "Лид создан"
+      }
+    ]
   }
 ]

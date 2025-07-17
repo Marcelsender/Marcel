@@ -103,17 +103,23 @@
     "name": "BAXODIR",
     "phone": "+998505805545",
     "source": "telegram",
-    "notes": "tOSHKENT VILOYATIDA UY KERAK EKAN",
-    "status": "new",
+    "notes": "ANNIQ KELAMAN DIDI",
+    "status": "meeting_scheduled",
     "managerId": "3",
     "createdAt": "2025-07-17T12:49:38.265Z",
-    "updatedAt": "2025-07-17T12:49:38.265Z",
+    "updatedAt": "2025-07-17T12:50:19.433Z",
     "statusHistory": [
       {
         "status": "new",
         "date": "2025-07-17T12:49:38.265Z",
         "notes": "Лид создан"
+      },
+      {
+        "status": "meeting_scheduled",
+        "date": "2025-07-17T12:50:19.433Z",
+        "notes": "ANNIQ KELAMAN DIDI"
       }
-    ]
+    ],
+    "nextMeetingDate": "2025-07-20T14:50"
   }
 ]

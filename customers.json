@@ -103,11 +103,11 @@
     "name": "BAXODIR",
     "phone": "+998505805545",
     "source": "telegram",
-    "notes": "ANNIQ KELAMAN DIDI",
-    "status": "meeting_scheduled",
+    "notes": "BERDIM ",
+    "status": "consultation_received",
     "managerId": "3",
     "createdAt": "2025-07-17T12:49:38.265Z",
-    "updatedAt": "2025-07-17T12:50:19.433Z",
+    "updatedAt": "2025-07-17T12:51:14.523Z",
     "statusHistory": [
       {
         "status": "new",
@@ -118,6 +118,11 @@
         "status": "meeting_scheduled",
         "date": "2025-07-17T12:50:19.433Z",
         "notes": "ANNIQ KELAMAN DIDI"
+      },
+      {
+        "status": "consultation_received",
+        "date": "2025-07-17T12:51:14.523Z",
+        "notes": "BERDIM "
       }
     ],
     "nextMeetingDate": "2025-07-20T14:50"

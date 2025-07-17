@@ -61,5 +61,23 @@
         "initialPayment": 15000
       }
     ]
+  },
+  {
+    "id": "1752754771534",
+    "name": "baxodir",
+    "phone": "998 33 925 71 07",
+    "source": "telegram",
+    "notes": "toshkent viloyatidan uy kerak ekan",
+    "status": "new",
+    "managerId": "3",
+    "createdAt": "2025-07-17T12:19:31.534Z",
+    "updatedAt": "2025-07-17T12:19:31.535Z",
+    "statusHistory": [
+      {
+        "status": "new",
+        "date": "2025-07-17T12:19:31.535Z",
+        "notes": "Лид создан"
+      }
+    ]
   }
 ]

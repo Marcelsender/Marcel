@@ -103,11 +103,11 @@
     "name": "BAXODIR",
     "phone": "+998505805545",
     "source": "telegram",
-    "notes": "1 XAFTADA KELADI TO'LOV QILISHGA",
-    "status": "deposit_given",
+    "notes": "MUDDATLI TO'LOV 12 OY",
+    "status": "paid_completed",
     "managerId": "3",
     "createdAt": "2025-07-17T12:49:38.265Z",
-    "updatedAt": "2025-07-17T12:51:46.141Z",
+    "updatedAt": "2025-07-17T12:52:29.559Z",
     "statusHistory": [
       {
         "status": "new",
@@ -130,10 +130,17 @@
         "notes": "1 XAFTADA KELADI TO'LOV QILISHGA",
         "contractNumber": "50024",
         "initialPayment": 200
+      },
+      {
+        "status": "paid_completed",
+        "date": "2025-07-17T12:52:29.559Z",
+        "notes": "MUDDATLI TO'LOV 12 OY",
+        "contractNumber": "5002",
+        "initialPayment": 77000000
       }
     ],
     "nextMeetingDate": "2025-07-20T14:50",
-    "contractNumber": "50024",
-    "initialPayment": 200
+    "contractNumber": "5002",
+    "initialPayment": 77000000
   }
 ]

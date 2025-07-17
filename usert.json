@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "1",
+    "name": "Администратор Системы",
+    "phone": "+998901234567",
+    "role": "admin",
+    "password": "admin123",
+    "createdAt": "2024-01-15T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "2",
+    "name": "Иван Петров",
+    "phone": "+998901234568",
+    "role": "supervisor",
+    "password": "supervisor123",
+    "createdAt": "2024-01-15T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "3",
+    "name": "Анна Сидорова",
+    "phone": "+998901234569",
+    "role": "manager",
+    "password": "manager123",
+    "createdAt": "2024-01-15T10:00:00.000Z",
+    "isActive": true
+  }
+]

@@ -166,10 +166,10 @@
     "phone": "+998901665566",
     "source": "office_visit",
     "notes": "",
-    "status": "deposit_given",
+    "status": "paid_completed",
     "managerId": "1752822434528",
     "createdAt": "2025-07-18T07:29:05.170Z",
-    "updatedAt": "2025-07-18T07:29:39.387Z",
+    "updatedAt": "2025-07-18T07:29:57.652Z",
     "statusHistory": [
       {
         "status": "new",
@@ -192,10 +192,17 @@
         "notes": "",
         "contractNumber": "M-00556",
         "initialPayment": 5000
+      },
+      {
+        "status": "paid_completed",
+        "date": "2025-07-18T07:29:57.652Z",
+        "notes": "",
+        "contractNumber": "M-00556",
+        "initialPayment": 60000
       }
     ],
     "nextMeetingDate": "2025-07-18T12:29",
     "contractNumber": "M-00556",
-    "initialPayment": 5000
+    "initialPayment": 60000
   }
 ]

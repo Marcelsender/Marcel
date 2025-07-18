@@ -97,17 +97,23 @@
     "phone": "998 33 925 71 07",
     "source": "telegram",
     "notes": "toshkent viloyatidan uy kerak ekan",
-    "status": "new",
+    "status": "meeting_scheduled",
     "managerId": "3",
     "createdAt": "2025-07-17T12:20:12.316Z",
-    "updatedAt": "2025-07-17T12:20:12.316Z",
+    "updatedAt": "2025-07-18T07:04:49.615Z",
     "statusHistory": [
       {
         "status": "new",
         "date": "2025-07-17T12:20:12.316Z",
         "notes": "Лид создан"
+      },
+      {
+        "status": "meeting_scheduled",
+        "date": "2025-07-18T07:04:49.615Z",
+        "notes": ""
       }
-    ]
+    ],
+    "nextMeetingDate": "2025-07-18T12:04"
   },
   {
     "id": "1752756578265",

@@ -4,16 +4,21 @@
     "name": "Алексей Иванов",
     "phone": "+998901111111",
     "source": "telegram",
-    "status": "new",
+    "status": "rejected",
     "managerId": "3",
     "createdAt": "2024-01-20T09:00:00.000Z",
-    "updatedAt": "2024-01-20T09:00:00.000Z",
+    "updatedAt": "2025-07-18T06:25:37.781Z",
     "notes": "Интересуется 2-комнатной квартирой",
     "statusHistory": [
       {
         "status": "new",
         "date": "2024-01-20T09:00:00.000Z",
         "notes": "Лид создан"
+      },
+      {
+        "status": "rejected",
+        "date": "2025-07-18T06:25:37.782Z",
+        "notes": ""
       }
     ]
   },

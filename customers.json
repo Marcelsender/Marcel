@@ -166,10 +166,10 @@
     "phone": "+998901665566",
     "source": "office_visit",
     "notes": "",
-    "status": "meeting_scheduled",
+    "status": "consultation_received",
     "managerId": "1752822434528",
     "createdAt": "2025-07-18T07:29:05.170Z",
-    "updatedAt": "2025-07-18T07:29:15.514Z",
+    "updatedAt": "2025-07-18T07:29:23.010Z",
     "statusHistory": [
       {
         "status": "new",
@@ -179,6 +179,11 @@
       {
         "status": "meeting_scheduled",
         "date": "2025-07-18T07:29:15.515Z",
+        "notes": ""
+      },
+      {
+        "status": "consultation_received",
+        "date": "2025-07-18T07:29:23.010Z",
         "notes": ""
       }
     ],

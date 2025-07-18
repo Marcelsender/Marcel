@@ -166,16 +166,22 @@
     "phone": "+998901665566",
     "source": "office_visit",
     "notes": "",
-    "status": "new",
+    "status": "meeting_scheduled",
     "managerId": "1752822434528",
     "createdAt": "2025-07-18T07:29:05.170Z",
-    "updatedAt": "2025-07-18T07:29:05.170Z",
+    "updatedAt": "2025-07-18T07:29:15.514Z",
     "statusHistory": [
       {
         "status": "new",
         "date": "2025-07-18T07:29:05.170Z",
         "notes": "Лид создан"
+      },
+      {
+        "status": "meeting_scheduled",
+        "date": "2025-07-18T07:29:15.515Z",
+        "notes": ""
       }
-    ]
+    ],
+    "nextMeetingDate": "2025-07-18T12:29"
   }
 ]

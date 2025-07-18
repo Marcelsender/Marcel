@@ -25,5 +25,14 @@
     "password": "+998993152248",
     "createdAt": "2024-01-15T10:00:00.000Z",
     "isActive": true
+  },
+  {
+    "id": "1752822434528",
+    "name": "BEKZOD",
+    "phone": "+998901333656",
+    "role": "manager",
+    "password": "+998901333656",
+    "createdAt": "2025-07-18T07:07:14.528Z",
+    "isActive": true
   }
 ]

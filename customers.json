@@ -73,10 +73,10 @@
     "phone": "998 33 925 71 07",
     "source": "telegram",
     "notes": "toshkent viloyatidan uy kerak ekan",
-    "status": "consultation_received",
+    "status": "deposit_given",
     "managerId": "3",
     "createdAt": "2025-07-17T12:19:31.534Z",
-    "updatedAt": "2025-07-20T11:01:59.540Z",
+    "updatedAt": "2025-07-20T11:02:12.579Z",
     "statusHistory": [
       {
         "status": "new",
@@ -92,9 +92,18 @@
         "status": "consultation_received",
         "date": "2025-07-20T11:01:59.540Z",
         "notes": ""
+      },
+      {
+        "status": "deposit_given",
+        "date": "2025-07-20T11:02:12.579Z",
+        "notes": "",
+        "contractNumber": "0225",
+        "initialPayment": 300
       }
     ],
-    "nextMeetingDate": "2025-07-18T12:04"
+    "nextMeetingDate": "2025-07-18T12:04",
+    "contractNumber": "0225",
+    "initialPayment": 300
   },
   {
     "id": "1752754812316",

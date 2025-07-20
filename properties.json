@@ -1077,5 +1077,123 @@
       }
     ],
     "createdAt": "2025-07-20T04:58:42.441Z"
+  },
+  {
+    "id": "1753009023293",
+    "name": "Танг Сарой ",
+    "hectares": 5,
+    "location": "Янги обод МФЙ",
+    "mapLocation": {
+      "lat": 41.2995,
+      "lng": 69.2401
+    },
+    "district": "Урта чирчик",
+    "companyName": "Zhon tuo",
+    "phone": "+998951586666",
+    "email": "tangsulolasi@gmail.com",
+    "completionDate": "2030-01-20",
+    "blocks": [
+      {
+        "id": "block_1753009023293_0",
+        "propertyId": "1753009023293",
+        "name": "Блок A",
+        "floors": 1,
+        "apartmentTypes": [],
+        "apartments": [],
+        "isConfigured": false
+      },
+      {
+        "id": "block_1753009023293_1",
+        "propertyId": "1753009023293",
+        "name": "Блок B",
+        "floors": 1,
+        "apartmentTypes": [],
+        "apartments": [],
+        "isConfigured": false
+      },
+      {
+        "id": "block_1753009023293_2",
+        "propertyId": "1753009023293",
+        "name": "Блок C",
+        "floors": 1,
+        "apartmentTypes": [],
+        "apartments": [],
+        "isConfigured": false
+      },
+      {
+        "id": "block_1753009023293_3",
+        "propertyId": "1753009023293",
+        "name": "Блок D",
+        "floors": 1,
+        "apartmentTypes": [],
+        "apartments": [],
+        "isConfigured": false
+      },
+      {
+        "id": "block_1753009023293_4",
+        "propertyId": "1753009023293",
+        "name": "Блок E",
+        "floors": 1,
+        "apartmentTypes": [],
+        "apartments": [],
+        "isConfigured": false
+      },
+      {
+        "id": "block_1753009023293_5",
+        "propertyId": "1753009023293",
+        "name": "Блок F",
+        "floors": 1,
+        "apartmentTypes": [],
+        "apartments": [],
+        "isConfigured": false
+      },
+      {
+        "id": "block_1753009023293_6",
+        "propertyId": "1753009023293",
+        "name": "Блок G",
+        "floors": 1,
+        "apartmentTypes": [],
+        "apartments": [],
+        "isConfigured": false
+      },
+      {
+        "id": "block_1753009023293_7",
+        "propertyId": "1753009023293",
+        "name": "Блок H",
+        "floors": 1,
+        "apartmentTypes": [],
+        "apartments": [],
+        "isConfigured": false
+      },
+      {
+        "id": "block_1753009023293_8",
+        "propertyId": "1753009023293",
+        "name": "Блок I",
+        "floors": 1,
+        "apartmentTypes": [],
+        "apartments": [],
+        "isConfigured": false
+      },
+      {
+        "id": "block_1753009023293_9",
+        "propertyId": "1753009023293",
+        "name": "Блок J",
+        "floors": 1,
+        "apartmentTypes": [],
+        "apartments": [],
+        "isConfigured": false
+      }
+    ],
+    "priceSettings": {
+      "currency": "UZS",
+      "exchangeRate": 12500
+    },
+    "discountSettings": {
+      "payment30Percent": 25,
+      "payment50Percent": 25,
+      "payment100Percent": 25,
+      "maxDiscount": 22
+    },
+    "createdAt": "2025-07-20T10:57:03.293Z"
   }
 ]

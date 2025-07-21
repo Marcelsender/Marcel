@@ -58,7 +58,8 @@
             "pricePerSqm50": 7560000,
             "pricePerSqm30": 8400000,
             "basePrice": 262193099.99999997,
-            "status": "available"
+            "status": "available",
+            "floorPlan": "https://i.ibb.co/bMmX2dg1/apartment-101-block-1753095561601-0.png"
           },
           {
             "id": "apt_block_1753095561601_0_102",

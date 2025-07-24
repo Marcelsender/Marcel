@@ -34,5 +34,14 @@
     "password": "+998901333656",
     "createdAt": "2025-07-18T07:07:14.528Z",
     "isActive": true
+  },
+  {
+    "id": "1753337179676",
+    "name": "Munere",
+    "phone": "+998998162103",
+    "role": "manager",
+    "password": "+998998162103",
+    "createdAt": "2025-07-24T06:06:19.676Z",
+    "isActive": true
   }
 ]

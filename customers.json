@@ -276,11 +276,11 @@
     "name": "XOLIDA",
     "phone": "+998991234567",
     "source": "office_visit",
-    "notes": "ochered bilan keldi",
-    "status": "consultation_received",
+    "notes": "bugun to'lov qiladi",
+    "status": "deposit_given",
     "managerId": "1753337179676",
     "createdAt": "2025-07-24T06:08:22.181Z",
-    "updatedAt": "2025-07-24T06:10:07.863Z",
+    "updatedAt": "2025-07-24T06:10:38.208Z",
     "statusHistory": [
       {
         "status": "new",
@@ -296,8 +296,17 @@
         "status": "consultation_received",
         "date": "2025-07-24T06:10:07.863Z",
         "notes": ""
+      },
+      {
+        "status": "deposit_given",
+        "date": "2025-07-24T06:10:38.208Z",
+        "notes": "bugun to'lov qiladi",
+        "contractNumber": "0056",
+        "initialPayment": 2450000
       }
     ],
-    "nextMeetingDate": "2025-07-24T11:09"
+    "nextMeetingDate": "2025-07-24T11:09",
+    "contractNumber": "0056",
+    "initialPayment": 2450000
   }
 ]

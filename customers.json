@@ -276,11 +276,11 @@
     "name": "XOLIDA",
     "phone": "+998991234567",
     "source": "office_visit",
-    "notes": "bugun to'lov qiladi",
-    "status": "deposit_given",
+    "notes": "raxmat skazal",
+    "status": "paid_completed",
     "managerId": "1753337179676",
     "createdAt": "2025-07-24T06:08:22.181Z",
-    "updatedAt": "2025-07-24T06:10:38.208Z",
+    "updatedAt": "2025-07-24T06:11:20.840Z",
     "statusHistory": [
       {
         "status": "new",
@@ -303,10 +303,17 @@
         "notes": "bugun to'lov qiladi",
         "contractNumber": "0056",
         "initialPayment": 2450000
+      },
+      {
+        "status": "paid_completed",
+        "date": "2025-07-24T06:11:20.840Z",
+        "notes": "raxmat skazal",
+        "contractNumber": "0056",
+        "initialPayment": 24500000
       }
     ],
     "nextMeetingDate": "2025-07-24T11:09",
     "contractNumber": "0056",
-    "initialPayment": 2450000
+    "initialPayment": 24500000
   }
 ]

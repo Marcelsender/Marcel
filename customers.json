@@ -277,10 +277,10 @@
     "phone": "+998991234567",
     "source": "office_visit",
     "notes": "ochered bilan keldi",
-    "status": "meeting_scheduled",
+    "status": "consultation_received",
     "managerId": "1753337179676",
     "createdAt": "2025-07-24T06:08:22.181Z",
-    "updatedAt": "2025-07-24T06:10:01.004Z",
+    "updatedAt": "2025-07-24T06:10:07.863Z",
     "statusHistory": [
       {
         "status": "new",
@@ -290,6 +290,11 @@
       {
         "status": "meeting_scheduled",
         "date": "2025-07-24T06:10:01.004Z",
+        "notes": ""
+      },
+      {
+        "status": "consultation_received",
+        "date": "2025-07-24T06:10:07.863Z",
         "notes": ""
       }
     ],

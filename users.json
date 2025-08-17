@@ -1,7 +1,7 @@
 [
   {
     "id": "1703123456789",
-    "name": "Алексей Петров",
+    "name": "ÐÐ»ÐµÐºÑÐµÐ¹ ÐÐµÑÑÐ¾Ð²",
     "phone": "+998901234567",
     "telegramUsername": "alexey_petrov",
     "registeredAt": "2024-01-15T10:30:00.000Z",
@@ -22,7 +22,7 @@
         ],
         "totalAmount": 15000000,
         "status": "delivered",
-        "deliveryAddress": "Ташкент, Юнусабад 5-кв"
+        "deliveryAddress": "Ð¢Ð°ÑÐºÐµÐ½Ñ, Ð®Ð½ÑÑÐ°Ð±Ð°Ð´ 5-ÐºÐ²"
       },
       {
         "id": "order_002",
@@ -37,7 +37,7 @@
         ],
         "totalAmount": 12000000,
         "status": "completed",
-        "deliveryAddress": "Ташкент, Мирзо-Улугбек"
+        "deliveryAddress": "Ð¢Ð°ÑÐºÐµÐ½Ñ, ÐÐ¸ÑÐ·Ð¾-Ð£Ð»ÑÐ³Ð±ÐµÐº"
       }
     ],
     "favoriteProducts": [
@@ -48,14 +48,14 @@
     "deliveryAddresses": [
       {
         "id": "addr_001",
-        "title": "Дом",
-        "address": "Ташкент, Юнусабад 5-кв, дом 25, кв 45",
+        "title": "ÐÐ¾Ð¼",
+        "address": "Ð¢Ð°ÑÐºÐµÐ½Ñ, Ð®Ð½ÑÑÐ°Ð±Ð°Ð´ 5-ÐºÐ², Ð´Ð¾Ð¼ 25, ÐºÐ² 45",
         "isDefault": true
       },
       {
         "id": "addr_002",
-        "title": "Работа",
-        "address": "Ташкент, Мирзо-Улугбек, ул. Буюк Ипак Йули 15",
+        "title": "Ð Ð°Ð±Ð¾ÑÐ°",
+        "address": "Ð¢Ð°ÑÐºÐµÐ½Ñ, ÐÐ¸ÑÐ·Ð¾-Ð£Ð»ÑÐ³Ð±ÐµÐº, ÑÐ». ÐÑÑÐº ÐÐ¿Ð°Ðº ÐÑÐ»Ð¸ 15",
         "isDefault": false
       }
     ],
@@ -84,7 +84,7 @@
   },
   {
     "id": "1703123456790",
-    "name": "Фарида Каримова",
+    "name": "Ð¤Ð°ÑÐ¸Ð´Ð° ÐÐ°ÑÐ¸Ð¼Ð¾Ð²Ð°",
     "phone": "+998907654321",
     "telegramUsername": "farida_karimova",
     "registeredAt": "2024-01-12T16:45:00.000Z",
@@ -98,14 +98,14 @@
         "items": [
           {
             "productId": "prod_003",
-            "name": "Платье летнее",
+            "name": "ÐÐ»Ð°ÑÑÐµ Ð»ÐµÑÐ½ÐµÐµ",
             "price": 350000,
             "quantity": 2
           }
         ],
         "totalAmount": 700000,
         "status": "delivered",
-        "deliveryAddress": "Самарканд, Регистан"
+        "deliveryAddress": "Ð¡Ð°Ð¼Ð°ÑÐºÐ°Ð½Ð´, Ð ÐµÐ³Ð¸ÑÑÐ°Ð½"
       }
     ],
     "favoriteProducts": [
@@ -115,8 +115,8 @@
     "deliveryAddresses": [
       {
         "id": "addr_003",
-        "title": "Дом",
-        "address": "Самарканд, Регистан, дом 12",
+        "title": "ÐÐ¾Ð¼",
+        "address": "Ð¡Ð°Ð¼Ð°ÑÐºÐ°Ð½Ð´, Ð ÐµÐ³Ð¸ÑÑÐ°Ð½, Ð´Ð¾Ð¼ 12",
         "isDefault": true
       }
     ],
@@ -145,7 +145,7 @@
   },
   {
     "id": "1703123456791",
-    "name": "Дмитрий Сидоров",
+    "name": "ÐÐ¼Ð¸ÑÑÐ¸Ð¹ Ð¡Ð¸Ð´Ð¾ÑÐ¾Ð²",
     "phone": "+998901111111",
     "telegramUsername": "dmitry_sidorov",
     "registeredAt": "2024-01-01T12:00:00.000Z",
@@ -180,5 +180,13 @@
     "totalOrdersSum": 0,
     "ordersCount": 0,
     "orders": []
+  },
+  {
+    "id": "user_7733506991",
+    "telegramId": 7733506991,
+    "firstName": "马赛",
+    "lastName": "",
+    "username": "all_in_processes",
+    "createdAt": "2025-08-17T09:21:19.634Z"
   }
 ]

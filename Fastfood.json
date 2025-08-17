@@ -1,17 +1,5 @@
 [
   {
-    "name": "BURGER",
-    "description": "Kotta burger",
-    "price": 40000,
-    "quantity": 2000,
-    "category": "services",
-    "images": [
-      "https://i.ibb.co/gbmMdfgk/gamburger-3-11zon.jpg"
-    ],
-    "seller": "wfood",
-    "active": true
-  },
-  {
     "name": "Lavash Big",
     "description": "Kotta lavash to'yimli va mazaili \n",
     "price": 43000,

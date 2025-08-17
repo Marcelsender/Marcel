@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "userId": "user_7733506991",
+    "restaurantId": "rest_3",
+    "items": [
+      {
+        "menuItem": {
+          "id": "rest_3_1",
+          "restaurantId": "rest_3",
+          "name": "Бургер Классик",
+          "description": "Сочная котлета из говядины, свежие овощи, соус",
+          "price": 350,
+          "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg",
+          "category": "Бургеры",
+          "isAvailable": true
+        },
+        "quantity": 3,
+        "restaurant": {
+          "id": "rest_3",
+          "name": "Sushi Master",
+          "description": "Свежие суши и роллы от японских мастеров",
+          "image": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg",
+          "rating": 4.9,
+          "deliveryTime": "40-50 мин",
+          "deliveryFee": 250,
+          "minOrder": 800,
+          "cuisine": [
+            "Японская",
+            "Суши"
+          ],
+          "isOpen": true,
+          "createdAt": "2025-08-17T09:21:18.900Z"
+        }
+      },
+      {
+        "menuItem": {
+          "id": "rest_3_3",
+          "restaurantId": "rest_3",
+          "name": "Салат Цезарь",
+          "description": "Листья салата, курица, пармезан, соус цезарь",
+          "price": 280,
+          "image": "https://images.pexels.com/photos/434163/pexels-photo-434163.jpeg",
+          "category": "Салаты",
+          "isAvailable": true
+        },
+        "quantity": 1,
+        "restaurant": {
+          "id": "rest_3",
+          "name": "Sushi Master",
+          "description": "Свежие суши и роллы от японских мастеров",
+          "image": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg",
+          "rating": 4.9,
+          "deliveryTime": "40-50 мин",
+          "deliveryFee": 250,
+          "minOrder": 800,
+          "cuisine": [
+            "Японская",
+            "Суши"
+          ],
+          "isOpen": true,
+          "createdAt": "2025-08-17T09:21:18.900Z"
+        }
+      }
+    ],
+    "total": 1580,
+    "status": "pending",
+    "id": "order_1755422518864_7733506991",
+    "createdAt": "2025-08-17T09:21:58.864Z"
+  }
+]

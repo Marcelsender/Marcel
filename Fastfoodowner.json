@@ -65,39 +65,6 @@
     }
   },
   {
-    "username": "Javohir",
-    "password": "Java5858..",
-    "phone": "+998935136774",
-    "location": {
-      "lat": 41.5539,
-      "lng": 60.6327
-    },
-    "delivery": {
-      "radiusLimit": 50,
-      "zones": [
-        {
-          "distance": 5,
-          "fee": 5000
-        },
-        {
-          "distance": 10,
-          "fee": 10000
-        },
-        {
-          "distance": 20,
-          "fee": 15000
-        },
-        {
-          "distance": 50,
-          "fee": 20000
-        }
-      ]
-    },
-    "name": "Javohir",
-    "card": "5614681200407876",
-    "workingHours": ""
-  },
-  {
     "username": "Javoh1r",
     "password": "Java5858..",
     "phone": "+998935136774",

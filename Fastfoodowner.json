@@ -29,39 +29,5 @@
     },
     "name": "wfood",
     "workingHours": ""
-  },
-  {
-    "id": "restaurant_1755432550529_7733506991",
-    "username": "wfood_1755432550529",
-    "password": "pass_1755432550529_7733506991",
-    "phone": "998505806615",
-    "card": "7373737383838229",
-    "telegram": "",
-    "name": "wfood",
-    "description": "Nurafshondagi sevimli fastfood",
-    "workingHours": "09:00 - 21-00",
-    "location": {
-      "lat": 41.030433,
-      "lng": 69.358865
-    },
-    "telegramId": 7733506991,
-    "createdAt": "2025-08-17T12:09:10.529Z",
-    "delivery": {
-      "zones": [
-        {
-          "distance": 5,
-          "fee": 5000
-        },
-        {
-          "distance": 10,
-          "fee": 10000
-        },
-        {
-          "distance": 20,
-          "fee": 15000
-        }
-      ],
-      "radiusLimit": 20
-    }
   }
 ]

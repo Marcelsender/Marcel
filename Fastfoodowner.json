@@ -63,35 +63,5 @@
       ],
       "radiusLimit": 20
     }
-  },
-  {
-    "username": "Javoh1r",
-    "password": "Java5858..",
-    "phone": "+998935136774",
-    "location": {
-      "lat": 40.3769,
-      "lng": 71.7973
-    },
-    "delivery": {
-      "radiusLimit": 50,
-      "zones": [
-        {
-          "distance": 5,
-          "fee": 5000
-        },
-        {
-          "distance": 10,
-          "fee": 10000
-        },
-        {
-          "distance": 20,
-          "fee": 15000
-        },
-        {
-          "distance": 50,
-          "fee": 20000
-        }
-      ]
-    }
   }
 ]
